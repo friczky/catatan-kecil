@@ -166,6 +166,7 @@ sudo docker run -d --name grafana --net host grafana/grafana
 
 <img src="https://i.ibb.co/rbZLfKf/Screenshot-2023-01-11-13-17-12-1920x2160.png" alt="Screenshot-2023-01-11-13-17-12-1920x2160" border="0">
 
+<img src="https://i.ibb.co/dDFyDj0/Screenshot-2023-01-11-13-17-23-1920x2160.png" alt="Screenshot-2023-01-11-13-17-23-1920x2160" border="0">
 
 - Pilih menu dashboard kemudian pilih Import
 
